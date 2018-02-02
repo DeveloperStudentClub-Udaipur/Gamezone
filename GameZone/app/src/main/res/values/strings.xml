@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game-Zone</string>
+    <string name="play_now">Play Now !!!</string>
+    <string name="sps">Stone Paper Scissor</string>
+    <string name="title_activity_ttt_menu">ttt_menu</string>
+
+</resources>
